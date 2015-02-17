@@ -1,0 +1,14 @@
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\bin\Debug\Agenda.Dados.dll.config
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\bin\Debug\Agenda.Dados.dll
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\bin\Debug\Agenda.Dados.pdb
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\bin\Debug\Agenda.Entidades.dll
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\bin\Debug\EntityFramework.dll
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\bin\Debug\Agenda.Entidades.pdb
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\bin\Debug\EntityFramework.xml
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\obj\Debug\Agenda.Dados.csprojResolveAssemblyReference.cache
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\obj\Debug\Agenda.Dados.dll
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\obj\Debug\Agenda.Dados.pdb
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\obj\Debug\Agenda.Dados.Migrations.CriacaoBanco.resources
+C:\Users\douglas\Documents\Visual Studio 2013\Projects\Agenda\Agenda.Dados\obj\Debug\Agenda.Dados.csproj.GenerateResource.Cache
